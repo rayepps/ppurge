@@ -1,0 +1,11 @@
+# Clean these things
+**/node_modules
+**/venv
+**/*.zip
+**/*.pyc
+**/build
+**/dist
+**/Pods
+
+# Do not clean this
+!**/exobase
